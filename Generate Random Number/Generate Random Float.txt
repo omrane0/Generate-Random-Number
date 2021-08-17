@@ -1,0 +1,8 @@
+from numpy import random
+
+x = random.rand()
+
+print(x)
+
+
+0.7485753322177784

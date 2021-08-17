@@ -1,0 +1,9 @@
+from numpy import random
+
+x = random.rand(5)
+
+print(x)
+
+
+
+[0.3242983 0.5023009 0.3882377 0.3956010 0.4472387]
